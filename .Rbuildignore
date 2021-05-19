@@ -11,3 +11,8 @@ baker_package_manuscript
 web
 ^cran-comments\.md$
 ^appveyor\.yml$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
